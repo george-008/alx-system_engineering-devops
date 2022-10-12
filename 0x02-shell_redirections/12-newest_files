@@ -1,2 +1,2 @@
-#!/bin/basu
-ls -t | head -n 10
+#!/bin/bash
+ls -1ut | head -n 10
